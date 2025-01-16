@@ -1,4 +1,10 @@
 # Big_Data_Analyzer
+## 실기 1유형
+[🔗 Type1 바로가기](./Type1)
+## 실기 2유형
+[🔗 Type2 바로가기](./Type2)
+## 실기 3유형
+[🔗 Type3 바로가기](./Type3)
 ## 빅데이터분석기사 필기 오답노트
 ### 참고
 [빅데이터분석기사 필기 강의](https://youtube.com/playlist?list=PLWtr7MRpQi5Dt41ZE0mT_wFIWUsTT1E7O&si=r1faM39OxVWndCJW)
