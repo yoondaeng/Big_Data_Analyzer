@@ -1,5 +1,5 @@
 # Big_Data_Analyzer
-#### 빅데이터분석기사 필기 요약 정리본입니다.
+## 빅데이터분석기사 필기 오답노트
 ### 참고
 [빅데이터분석기사 필기 강의](https://youtube.com/playlist?list=PLWtr7MRpQi5Dt41ZE0mT_wFIWUsTT1E7O&si=r1faM39OxVWndCJW)
 
